@@ -1,4 +1,3 @@
-# test
-Trials of python materials and Tests for developing RS200WebApp
+# ÀsŒ‹‰Ê
 
-å®Ÿè¡Œçµæœã¯http://nbviewer.ipython.org/github/RS200WebApp/test/blob/master/ORMapper_trial.ipynb
+http://nbviewer.ipython.org/github/RS200WebApp/test/blob/master/ORMapper_trial.ipynb
